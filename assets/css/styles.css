@@ -55,7 +55,7 @@ p {
   background: #42A8C0;
   position: absolute;
   right: 0;
-  width: 280px;
+  width: 251px;
   height: 100%;
   min-height: 800px;
   color: #fff;
@@ -85,24 +85,6 @@ p {
 .sidebar-wrapper .profile {
   margin-bottom: 15px;
 }
-.image-cropper {
-    width: 100px;
-    height: 100px;
-    position: relative;
-    overflow: hidden;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
-    border-radius: 50%;
-    margin: 0px auto 10px auto;
-}
-.image-cropper img {
-    display: inline;
-    margin: 0 auto;
-    height: 100px;
-    width: 100px;
-}
 .sidebar-wrapper .contact-list .fa {
   margin-right: 5px;
   font-size: 18px;
@@ -118,11 +100,8 @@ p {
   font-size: 14px;
 }
 .sidebar-wrapper .contact-list .linkedin .fa {
-  
-    vertical-align: text-bottom;
-
+  vertical-align: text-bottom;
 }
-
 .sidebar-wrapper .container-block {
   padding: 30px;
 }
