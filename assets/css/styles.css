@@ -99,9 +99,6 @@ p {
 .sidebar-wrapper .contact-list .email .fa {
   font-size: 14px;
 }
-.sidebar-wrapper .contact-list .linkedin .fa {
-  vertical-align: text-bottom;
-}
 .sidebar-wrapper .container-block {
   padding: 30px;
 }
@@ -195,6 +192,10 @@ p {
 }
 .main-wrapper .experiences-section .item {
   margin-bottom: 30px;
+}
+.main-wrapper .experiences-section .item .bullets {
+  padding-left: 15px;
+  list-style-type: disc;
 }
 .main-wrapper .upper-row {
   position: relative;

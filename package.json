@@ -1,0 +1,24 @@
+{
+  "name": "rbuenavida.github.io",
+  "version": "1.0.0",
+  "description": "<a href=\"http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/\" target=\"_blank\"><img src=\"http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/Responsive-HTML5-Resume-CV-Template-for-Developers.png\" alt=\"Responsive Resume/CV Template for Developers\" /></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbuenavida/rbuenavida.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbuenavida/rbuenavida.github.io/issues"
+  },
+  "homepage": "https://github.com/rbuenavida/rbuenavida.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^3.3.2"
+  }
+}
